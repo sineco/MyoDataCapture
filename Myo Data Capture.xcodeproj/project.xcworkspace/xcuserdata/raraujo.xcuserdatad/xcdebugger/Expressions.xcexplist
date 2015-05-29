@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DataCollector::DataCollector():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "emgSamples">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DataCollector::print():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "emgSamples.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DataCollector::onEmgData(myo::Myo*, unsigned long long, signed char const*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "emg[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
